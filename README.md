@@ -8,9 +8,9 @@ Download music from matter
 * pip for Python 3
 
 ## Installation
-
+```
 python3 -m pip install --user requests
-
+```
 ## Usage
 
 Download a track:
